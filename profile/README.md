@@ -1,12 +1,55 @@
-## Hi there 👋
+# IDIOTs
+![](https://i.imgur.com/4ckCV61.png)
 
-<!--
+## 집단명 : IDIOTs
+Instructive Developer Independent Oriented Team  
+IDIOTs.dev.og@gmail.com
 
-**Here are some ideas to get you started:**
+### IDIOTs 소개
+> 우리는 IDIOT
+> Instructive Developer Independent Oriented Team는 
+> 유익한 개발자 독립 지향 팀입니다.
+> 
+~~> 진호님을 사랑하며 진호님을 지향합니다~~
+### IDIOTs 구성원
+* 진호님 
+* 백엔드 개발자 14명 
+* 킹갓프론트천재 1명으로 구성되어 있습니다.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+### 오프라인 예정 행사
+11월 17일 진호님과의 만남 
+
+---
+### IDOITs 행동 강령 
+
+
+IDOITs 는 [ 유익한 개발자 독립 지향 팀입니다 ] 권리 침해 없는 행사를 위하여 타인에게 불쾌감을 줄 수 있는 성 정체성, 성적 취향, 장애, 외모, 민족, 국적, 인종, 나이, 정치, 종교 등에 대한 발언은 금지합니다.
+
+행동 강령은 IDOITs 행사에 참여하는 모든 개인에게 해당하며 위반 시 `조롱`을 받을수 있습니다. 행동강령 위반 사례에 대한 내용은 `놀림감` 이 될 수 있습니다.
+
+#### 1. 드립 있게 행동해주세요
+우리는 모두 개발자이자 드립인입니다 드립이 없으면 인정을 받지 못 해요.
+
+#### 2. 사려 깊게 행동해주세요.
+우리는 모두 같은 공동체의 구성원입니다. 그러므로 다른 사람들에게 친절하게 그리고 따듯하게 맞이하는 좋은 사람이 되어주세요. 다른 사람이 함께하고 싶어 하는 사람이 되어주세요.
+
+#### 3. 서로를 존중해 주세요.
+
+활발한 토론은 건강한 개발자 생태계에 도움이 되지만, 비판이 아닌 비난은 해가 됩니다. 의견을 공감하려 노력하고, 갈등을 녹여가며 함께해주세요. 서로를 이해하기 위해 노력해주세요.
+
+#### 4 . 말과 행동에 책임감을 보여주세요.
+
+우리는 공동체의 구성원으로서 하는 말과 행동에 대해 책임이 있습니다. 그로 인해 문제가 발생한다면 바로잡아야 합니다. 어떠한 경우라도 말과 행동으로 인해 타인이 불쾌감을 느꼈다면 문제에 해당됩니다.
+
+#### 5. 적극적으로 참여해주세요.
+
+적극적인 참여는 서로의 거리를 줄이고 보다 큰 가치를 만들어 냅니다. 적극적으로 참여하며 조화롭게 어울려주세요.
+
+#### 6. 자유롭게 도움을 구하세요.
+
+곤란한 상황을 마주쳤다면 주위에 도움을 요청하세요. 그리고 도움을 요청받았다면 주저하지 말고 도와주세요.
+
+#### 행동 강령 참조 
+GDG Korea Android [https://io19-viewing-seoul.gdg.kr/coc/]
+
